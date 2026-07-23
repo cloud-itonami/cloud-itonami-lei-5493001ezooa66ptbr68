@@ -73,5 +73,5 @@ Tel: +33 1 73 26 00 00
 " 1 :add]
  ["atos-terms-1" :tos/source-url "https://atos.net/en/terms-and-conditions" 1 :add]
  ["atos-terms-1" :tos/retrieved-at "2026-07-19" 1 :add]
- ["atos-terms-1" :tos/sha256 "2b856a84acd04629428effb9a607c096195a76a3d0f5a18b666af43651ce5543" 1 :add]
+ ["atos-terms-1" :tos/sha256 "3fd96f314ec9a911c4aa782782b579c5bab3abdc53ba4dc0a3c5f9b95f298423" 1 :add]
  ["atos-terms-1" :tos/doc-type :terms-of-service 1 :add]]
